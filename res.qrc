@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainQML.qml</file>
+        <file>GitHub.ico</file>
+        <file>Font/icomoon.ttf</file>
+        <file>Images/close.png</file>
+        <file>Images/github.png</file>
+        <file>QML/FilterDelegate.qml</file>
+        <file>QML/FirstView.qml</file>
+        <file>QML/HTMLTabView.qml</file>
+        <file>QML/SearchView.qml</file>
+        <file>QML/SecondView.qml</file>
+        <file>QML/SearchListDelegate.qml</file>
+    </qresource>
+</RCC>
